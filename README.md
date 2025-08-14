@@ -13,3 +13,11 @@ A simple offline budget tracker built with Python (Streamlit + SQLite) to manage
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## Tech Stack
+Python
+Streamlit
+Pandas
+Matplotlib
+SQLite
